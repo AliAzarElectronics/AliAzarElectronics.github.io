@@ -653,3 +653,10 @@
     height: 1080;
     object-fit: cover;
 }
+
+.text-input{
+    height: 200px;
+    width: 510px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
